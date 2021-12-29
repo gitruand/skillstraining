@@ -6,5 +6,6 @@ These are my prominent technical skills
   - Scripting Languages - bash, python, sed, awk
   - Cloud Platforms - AWS, GCP, Azure 
   - Containers - Docker, Kubernetes 
-
+  - editing random stuff for the sake of learning.
+  - eating chocolate
 
